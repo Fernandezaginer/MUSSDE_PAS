@@ -1,4 +1,4 @@
-package com.example.proyecto_pas;
+package com.example.pas_proyecto;
 
 import android.content.Context;
 
